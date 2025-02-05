@@ -1,0 +1,39 @@
+body{
+   background-image: url(img/734995.webp);
+}
+.titulo{
+    color: rgb(255, 9, 9);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+}
+.titulo2{
+    color: black;
+}
+.dadousuario, 
+.dadosenha{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border: none;
+    border: 0;
+    height: 20px;
+    width: 200px;
+    outline: 0;
+    background-color: rgb(255, 255, 255);
+}
+.usuario, 
+.senha{
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: brown;
+    font-weight: 600;
+}
+.botao{
+    width: 100px;
+    height: 30px;
+    background-color: brown;
+    color: black;
+}
+.botao:hover{
+    background-color: brown;
+    color: black;
+}
